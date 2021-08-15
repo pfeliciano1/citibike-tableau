@@ -2,7 +2,9 @@
 
 ![alt text](https://www.motivateco.com/wp-content/uploads/2016/05/logo-citi-bike-jc-1024x509.png)
 
-[myTableau](https://public.tableau.com/app/profile/paul.feliciano/viz/CitiBikesJerseyCity/RidevsMembership)
+[CitiBikes Jersey City
+by
+Paul Feliciano](https://public.tableau.com/app/profile/paul.feliciano/viz/CitiBikesJerseyCity/RidevsMembership)
 
 ### The charts in this presentation show the general information of CitiBike trips in the Jersey City/Hoboken area from February 2021 through June 2021, indicating the ride types, options for member and casual users, amount of trips per station, average miles per station and peak hours of usage.
 
