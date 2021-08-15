@@ -23,5 +23,5 @@
 
 ### Factors uncovered from the data:
 1. Out of all the CitiBike users in Jersey City/Hoboken area, 58% are members with an annual membership. The rest are casual users per diem. Which can tell us that most of the users are locals that travel in bike because of traffic, pollution, saving money, parking and easy access to dense city areas.
-2. 83% of the bikes rented are docked bikes (known as ebikes). One of the reasons that this factor is so significant is because the docked bikes get a speed of up to 18 MPH.
-3. 
+2. 83% of the bikes rented are docked bikes (known as ebikes). One of the reasons that this factor is so significant, is because the docked bikes get a speed of up to 18 MPH without the user being pedaling.
+3. The most used stations are close to the waterfront of Jersey City/Hoboken or near train stations. Which tells us again, that members and casuals are probably using the Citibikes to go to work downtown, go to the train to NYC, tour by the waterfront, etc.
