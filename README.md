@@ -25,3 +25,10 @@
 1. Out of all the CitiBike users in Jersey City/Hoboken area, 58% are members with an annual membership. The rest are casual users per diem. Which can tell us that most of the users are locals that travel in bike because of traffic, pollution, saving money, parking and easy access to dense city areas.
 2. 83% of the bikes rented are docked bikes (known as ebikes). One of the reasons that this factor is so significant, is because the docked bikes get a speed of up to 18 MPH without the user being pedaling.
 3. The most used stations are close to the waterfront of Jersey City/Hoboken or near train stations. Which tells us again, that members and casuals are probably using the Citibikes to go to work downtown, go to the train to NYC, tour by the waterfront, etc.
+4. Jersey City Citibike stations takes 77% of Total trips from the Jersey City/Hoboken area, even though the population in Jersey City is in the same range as Hoboken (18,000-213,000 people).
+5. 9 out of the 10 Top Stations by number of trips are in Jersey City.
+6. The average miles per trip does not exceed the 2 miles, giving us another point for the fact that the Citibikes are being used by members or casuals that live close or have short commutes in the city.
+7. Members use the Citibikes mostly for the early commute in the morning rush hour between 5-6am with over 70% of Total miles in those hours.
+8. Also, "peak hours" per month for CitiBike users are between 3-7PM in the evening rush hours.
+9. In the winter (February), the amount of trips was on the low end not even reaching 500 total for Peak Hours. Some of the factors that affected this could possibly be: COVID-19, pandemic restrictions, snow storms, cold weather, less tourists, people move out, etc.
+10. In the summer (June), reaches 7000+ bike trips in the Peak Hours which can be because the control of the COVID-19, less pandemic restrictions, opening of places, tourism, etc.
