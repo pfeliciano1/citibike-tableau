@@ -17,3 +17,5 @@
 - Casual: Non-Members which pay $0.18/minute. Reduced Fare Bike Share Members pay $0.05/minute.
 - Classic bike: regular pedal bikes with an adjustable seat, sturdy frame, 3-speed pedal shifter, responsive hand brakes, red lights-reflectors, front basket and durable tires.
 - Docked bike: With speeds up to 18 MPH, these custom pedal-assist ebikes give you the power to tackle bridges, shave time off your commute, and experience more neighborhoods in less time. Just start pedaling and the power kicks in.
+- The maps background color for the CitiBike stations locations is based on the 2018 Census Population data by Zipcode.
+
