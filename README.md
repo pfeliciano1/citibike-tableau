@@ -11,3 +11,7 @@
 
 4. What is the average distance in miles that a bike is ridden?
 
+### This particular analysis starts with some data clarification of some details used to explain certain "factors" shown in this data.
+### Key details you need to know:
+- Member: Annual Members which pay an extra $0.12/minute, capped at $3 for rides 45 minutes or less starting or ending outside Manhattan.
+- Casual: Non-Members which pay $0.18/minute. Reduced Fare Bike Share Members pay $0.05/minute.
