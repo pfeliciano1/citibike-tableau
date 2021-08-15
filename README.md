@@ -20,6 +20,7 @@
 - The maps background color for the CitiBike stations locations is based on the 2018 Census Population by Zipcode data.
 - The data gathered is only of the first 6 months of 2021, with the exception of January, in which the data was different with more personal details of each user.
 - Since February 2021, the CitiBike company changed their data obtained from the users to be more private, for example taking out the gender and birthdate.
+- Total number of trips: 161,697
 
 ### Factors uncovered from the data:
 1. Out of all the CitiBike users in Jersey City/Hoboken area, 58% are members with an annual membership. The rest are casual users per diem. Which can tell us that most of the users are locals that travel in bike because of traffic, pollution, saving money, parking and easy access to dense city areas.
